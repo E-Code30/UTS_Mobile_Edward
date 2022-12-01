@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">UTS_Edward_F55121005</string>
+    <string name="name_edward">Nama Keluarga</string>
+    <string name="lorem">lorem ipsum dolor sit amet</string>
+
+    <string-array name="data_name">
+        <item>About Me</item>
+        <item>About Bro</item>
+        <item>About Mom</item>
+        <item>About Dad</item>
+
+    </string-array>
+
+    <string-array name="data_description">
+        <item>It is About The Cool Me</item>
+        <item>It is About My Cheerful Bro</item>
+        <item>It is About My Lovely Mom</item>
+        <item>It is About My Clever Dad</item>
+    </string-array>
+
+    <array name="data_photo">
+        <item>@drawable/edward</item>
+        <item>@drawable/kaka</item>
+        <item>@drawable/mama</item>
+        <item>@drawable/papa</item>
+    </array>
+</resources>
